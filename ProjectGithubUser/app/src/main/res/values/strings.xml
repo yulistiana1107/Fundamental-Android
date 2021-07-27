@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lets Talk!</string>
+    <string name="lets">lets</string>
+    <string name="talk">talk</string>
+    <string name="register_now">REGISTER NOW</string>
+    <string name="or">OR</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email_username">Email/Username</string>
+    <string name="hello">HELLO</string>
+    <string name="peeps">Peeps!</string>
+    <string name="search">Search</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="repository">REPOSITORY</string>
+</resources>

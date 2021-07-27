@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="yulski">\@%s</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="repository">%s</string>
+    <string name="repositoris">REPOSITORY</string>
+    <string name="consumer">Consumer</string>
+</resources>

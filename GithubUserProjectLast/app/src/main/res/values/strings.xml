@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lets Talk!</string>
+    <string name="yulski">\@%s</string>
+    <string name="lets">lets</string>
+    <string name="talk">talk</string>
+    <string name="register_now">REGISTER NOW</string>
+    <string name="or">OR</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email_username">Email/Username</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="repository">%s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Log Out</string>
+    <string name="hint">Input Data</string>
+    <string name="repositoris">REPOSITORY</string>
+    <string name="favorite">Favorite</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="settings">Settings</string>
+    <string name="daily_message">Find your Favorite User now!</string>
+    <string name="reminder_activated">Reminder Enabled!</string>
+    <string name="reminder_deactivated">Reminder Disabled!</string>
+    <string name="change_language">Change Language</string>
+</resources>
